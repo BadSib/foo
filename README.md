@@ -4,6 +4,4 @@
 You should <kbd>A</kbd>
 <kbd>B</kbd>
 
-<kbd>C</kbd>
-
-<kbd>D</kbd>
+<div align=”center”> [ Your content here ]</div>
